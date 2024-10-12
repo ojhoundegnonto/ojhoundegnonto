@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<!-- ## Hi there 👋 -->
+I am a Ph.D. My background is physics, including ocean physics and climate dynamics, underpinned by a strong mathematics skillset with extensive experience using Python and Matlab for analysis. I extensively use Python Jupyter notebooks for my analyses of in-situ data, satellite data, and numerical model output (including ECCO) on both local and cloud (AWS-EC2 and Supercomputer) compute environments. My research interests expand from understanding the ocean responses to the climate change via air-sea interaction to the global freshwater cycle (Rivers, Sea Ice \& Precipitation). I am very flexible and eager to discover and learn new things to strengthen my career.
 <!--
 **ojhoundegnonto/ojhoundegnonto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
