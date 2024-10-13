@@ -1,7 +1,7 @@
 ## Hi there 👋 
 I am a Ph.D. My background is physics, including ocean physics and climate dynamics, underpinned by a strong mathematics skillset with extensive experience using Python and Matlab for analysis. I extensively use Python Jupyter notebooks for my analyses of in-situ data, satellite data, and numerical model output (including NEMO, MITgcm and ECCO) on both local and cloud (AWS-EC2 and Supercomputer) compute environments. My research interests expand from understanding the ocean responses to the climate change via air-sea interaction to the global freshwater cycle (Rivers, Sea Ice \& Precipitation). I am very flexible and eager to discover and learn new things to strengthen my career.
 
-<h2>I am proficient with the following scripting languages and environments:</h2>
+<h2>I code with the following scripting languages and environments:</h2>
 
 <div align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
