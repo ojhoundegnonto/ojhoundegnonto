@@ -3,7 +3,7 @@ I am a Ph.D. My background is physics, including ocean physics and climate dynam
 
 <h2>I am proficient with the following scripting languages and environments:</h2>
 
-<div align="left">
+<div align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
