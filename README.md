@@ -41,5 +41,5 @@ I am a Ph.D. My background is physics, including ocean physics and climate dynam
 <a href="https://github.com/ojhoundegnonto">
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ojhoundegnonto&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojhoundegnonto&layout=compact&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
-<img align="center" height="150em" src="#"/>
+<img align="center" height="150em" src="Photo_Odilon_Clement_JPL_Postdoc_N03.jpeg"/>
 </div>
