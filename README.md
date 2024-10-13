@@ -32,6 +32,7 @@ I am a Ph.D. My background is physics, including ocean physics and climate dynam
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
+<h2></h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojhoundegnonto&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojhoundegnonto&layout=compact)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojhoundegnonto&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojhoundegnonto&layout=compact) -->
 
