@@ -37,8 +37,8 @@ I am a Ph.D. My background is physics, including ocean physics and climate dynam
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojhoundegnonto&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojhoundegnonto&layout=compact) -->
 
-<!-- <div style="display: inline-block;"> -->
- <div style="display:flex; justify-content: center">
+ <div style="display: inline-block;"> 
+ <!--<div style="display: flex; justify-content: center;  flex-flow: row wrap">-->
   
 <a href="https://github.com/ojhoundegnonto">
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ojhoundegnonto&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
