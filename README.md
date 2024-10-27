@@ -37,11 +37,12 @@ I am a Ph.D. My background is physics, including ocean physics and climate dynam
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojhoundegnonto&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojhoundegnonto&layout=compact) -->
 
- <div style="display: inline-block;"> 
- <!--<div style="display: flex; justify-content: center;  flex-flow: row wrap">-->
-  
+ <!--- <div style="display: inline-block;"> -->
+ <!-- <div style="display: flex; justify-content: center;  flex-flow: row wrap"> -->
+<div align="center">
 <a href="https://github.com/ojhoundegnonto">
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ojhoundegnonto&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojhoundegnonto&layout=compact&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojhoundegnonto&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 </div>
